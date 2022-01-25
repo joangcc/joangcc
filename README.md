@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joangcc
 - 👀 I’m interested in developing and implementing MMM models.
-- 🌱 I’m currently learning FB Robyn
+- 🌱 I’m currently learning about Robyn by Meta
 - 💞️ I’m looking to collaborate on Marketing Mix Models
 
 <!---
