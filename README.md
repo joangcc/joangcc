@@ -2,6 +2,7 @@
 - 👀 I’m interested in developing and implementing MMM models.
 - 🌱 I’m currently learning about Robyn by Meta
 - 💞️ I’m looking to collaborate on Marketing Mix Models
+- Find me at joan.gonzalez-condecantero@vistaprint.com
 
 <!---
 joangcc/joangcc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
